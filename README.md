@@ -1,0 +1,2 @@
+This is the Project: Recipes for Odin Project. This will be my first project of odin project!!
+The Project will be about the scrumptious dishes on the anime "Food Wars" and i will be trying to implement the HTML elements i've learned such as headings, links, images.
